@@ -14,8 +14,7 @@ class Nav extends React.Component{
                <h5> <Route path="/MealbyId" component={MealbyId}></Route>  
                 <Route path="/Mealbyletter" component={Mealbyletter}></Route></h5>        
                 </HashRouter>
-            
-</div>
+             </div>
         )   
     }
 }
